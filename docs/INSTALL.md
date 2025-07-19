@@ -12,6 +12,7 @@ WSDL-файлы ONVIF
 Клонирование репозитория
 
 git clone https://github.com/ilyapovzun/onvif_camera.git
+
 cd onvif-camera-tool
 
 
