@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+
+# Log files
+*.log
+
+# WSDL cache
+wsdl/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor files
+.vscode/
+.idea/
